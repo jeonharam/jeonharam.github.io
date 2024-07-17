@@ -2,9 +2,9 @@
     "pageTitle": "나의 얼굴상 테스트",
     "mainTitle": "난 무슨 얼굴상일까",
     "subtitle": "인공지능 얼굴상 테스트",
-    "footerText": "&copy; 태영테크 2024. All Rights Reserved.",
+    "footerText": "&copy; 제테크 2024. All Rights Reserved.",
     
-    "modelUrl": "https://teachablemachine.withgoogle.com/models/FgauoPNN7/",
+    "modelUrl": "https://teachablemachine.withgoogle.com/models/bqe_yTEaW/",
     "classDetails": [
         {
             "name": "개그맨",
